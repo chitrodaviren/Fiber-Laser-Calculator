@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "note": "Replace/add entries from the FSM collection. Material comes from folder name; thickness comes from filename. Only speed_mps is used.",
+  "entries": [
+    {"material":"MS","thickness_mm":1,"speed_mps":3,"source_file":"1 mm ms"},
+    {"material":"MS","thickness_mm":1.5,"speed_mps":3,"source_file":"1.5 mm ms"}
+  ]
+}
